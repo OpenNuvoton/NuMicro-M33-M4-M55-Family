@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td style="width:25px"><a href="https://github.com/OpenNuvoton/M55M1BSP" style="display:block;">&nbsp;M55M1</a></td>
-    <td style="width:25px">&nbsp;</td>
+    <td style="width:25px"><a href="https://github.com/OpenNuvoton/M5531BSP" style="display:block;">&nbsp;M5531</a></td>
     <td style="width:25px">&nbsp;</td>
     <td style="width:25px">&nbsp;</td>
   </tr>
