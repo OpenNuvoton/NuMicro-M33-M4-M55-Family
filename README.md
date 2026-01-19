@@ -4,7 +4,7 @@
   </tr>
   <tr>
     <td style="width:25px"><a href="https://github.com/OpenNuvoton/m3331bsp" style="display:block;">&nbsp;M3331</a></td>
-    <td style="width:25px">&nbsp;</td>
+    <td style="width:25px"><a href="https://github.com/OpenNuvoton/m3351bsp" style="display:block;">&nbsp;M3331</a></td>
     <td style="width:25px">&nbsp;</td>
     <td style="width:25px">&nbsp;</td>
   </tr>
