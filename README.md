@@ -7,7 +7,6 @@
     <td style="width:25px"><a href="https://github.com/OpenNuvoton/m3351bsp" style="display:block;">&nbsp;M3351</a></td>
     <td style="width:25px"><a href="https://github.com/OpenNuvoton/CM3031H-CM3031G-BSP" style="display:block;">&nbsp;CM3031H/G</a></td>
     <td style="width:25px">&nbsp;</td>
-    <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
       <td align="center" colspan="4"><b> NuMicro M4 Family BSP / Sample Code</b></td>
